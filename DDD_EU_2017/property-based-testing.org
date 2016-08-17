@@ -1,0 +1,11 @@
+* Property-based testing (& domain invariants) for the rest of us
+
+Format: Talk
+
+Use Property-based tests on your legacy codebase! Reduce test-debt! Create smaller, fewer tests that: test more, are more readable & document the problem.
+
+Domain invariants are all around you. In every business rule your domain expert ever tried to give you. You should be testing them! Not only an example representing
+them: but testing the invariant itself.
+
+You should also use these property based tests in an exploratory manner. Seeking to challenge your understanding of the domain
+and communication with domain experts.

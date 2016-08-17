@@ -1,0 +1,10 @@
+* Understand accidental complexity, Hexagonal architecture & Out of the tar pit as a mob
+
+Format: Workshop (1 or 2 days)
+
+Dive into the Out of the tar pit paper. Understand Accidental & Essential complexity. Why they matter in design.
+The cost in legacy creation of mixing them together today. An approach of separating them & using multi-paradigms to fight them.
+
+Dive into hexagonal architecture see how well it marries with DDD and compare it to Out of the tar pit.
+
+As a mob: work together into putting those ideas in practice.

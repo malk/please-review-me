@@ -1,0 +1,12 @@
+* Reading code under the influence of your emotions
+
+Format: Talk, but there is a core of it that could be a short talk and a first message that could be a lightning.
+
+Lots of material on *writing* "beautiful" code.
+but nothing on *reading* "ugly" code!
+
+Yet we spend most of our time reading do we not? And most code is "ugly" ?
+
+Suffer less: arm yourself against the confusions, lies and outrages of legacy software.
+
+Read that code with empathy. Evolve your reading by adopting different reading modes. Tool the reading.

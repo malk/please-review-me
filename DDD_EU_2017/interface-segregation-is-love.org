@@ -1,0 +1,7 @@
+* Interface segregation is love
+
+Format: talk
+
+Understand the *I* in SOLID, what does it mean to segregate interfaces? What is so great about it?
+Why almost no codebase does it and they all should? How do you explain it to your team in?
+Why interface segregation is love (as defined by St. Exupery's "the little prince")
