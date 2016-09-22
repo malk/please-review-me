@@ -1,13 +1,19 @@
-* Develop by — mostly — describing the problem
+* Describing the problem as the code
 
 Format: Talk
 
-Every test should describe the problem & not the solution, every program should do both.
+Every test should describe the problem & not the solution, every program
+should do both.
 
-Most of your current programs describe only the solution to a problem long forgot in time.
+Most of your current programs describe only the solution to a problem
+long forgot in time.
 
-Let us change this, let us write programs that are  — mostly — a description of the problem.
+Let us change this, let us write programs that are a description of the
+problem (as much as possible).
 
-Let us program by describing the results we seek instead of how to meet them.
+Let us program by describing the results we seek instead of how to meet
+them.
 
-Let us embrace the declarative style of logical/relational programming! But do so without switching our current language of our current legacy project.
+Let us embrace the declarative style of logical/relational programming!
+But do so without switching our current language of our current legacy
+project.
