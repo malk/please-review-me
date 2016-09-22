@@ -1,11 +1,14 @@
 * Fight the systemic issues why your code is sad
 
-Format: workshop 1 day, tho I can make a 120 minutes hands-on with the first part of it
+Try to create a code you will not consider “legacy”.
 
-If you remake awful software from scratch without changing the culture that created it: you'll remake awful software.
+I’ll play the role of your client and use around 20 techniques to make
+you fail.
 
-Your legacy codebase is not only the fault of the devs: there is a whole system that is aouthor of that code.
+You will fail.
 
-In a hands-on always coding way: Let us explore that system, usually ignored, around your dev process.
+We’ll then discuss what techniques I have used, how they happen in real
+life, how to fight them in your project.
 
-And by seeing it: arm ourselves to fight it.
+All languages welcome. Bring your own laptop with your
+environment. We’ll split into small teams.
