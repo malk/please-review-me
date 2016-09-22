@@ -8,9 +8,9 @@ expert ever tried to give you. You should use them to guide your design.
 You should also be testing them! Not only an example representing them:
 but testing the invariant itself.
 
-You can do them with property-based tests (PBTs),
-and if you think you cannot do PBTs on legacy codebases
-and/or outside functional programming this talk should show you otherwise.
+You can do them with property-based tests (PBTs). If you think you
+cannot do PBTs on legacy codebases (or outside FP) this talk should show
+you otherwise.
 
 Let's also use Property-based tests to reduce test-debt. Create smaller,
 fewer tests that: test more, are more readable & document the
