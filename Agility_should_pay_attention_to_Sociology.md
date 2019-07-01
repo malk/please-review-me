@@ -11,3 +11,4 @@ tis time for some Sociological Theory, let's Vulgarise Bourdieu! Buckle up for a
 3. Cultural Capital.
 4. Interactions of those 3 and “Agile” Methods.
 
+[Based on this blog post.](https://medium.com/@Romeu/agility-should-pay-attention-to-sociology-b671fd056933)
