@@ -12,5 +12,5 @@ Let's Vulgarise Bourdieu! Buckle up for a talk on:
 
 
 —
-
-[The talk was filmed](http://videos.ncrafts.io/video/342450313)
+* [I wrote a blog post on this](https://medium.com/@Romeu/agility-should-pay-attention-to-sociology-b671fd056933)
+* [The talk was filmed](http://videos.ncrafts.io/video/342450313)
