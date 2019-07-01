@@ -8,7 +8,7 @@ Let's Vulgarise Bourdieu! Buckle up for a talk on:
 * Symbolic Violence.
 * Social/Corporeal Hexis.
 * Cultural Capital.
-*Interactions of those 3 and “Agile” Methods.
+* Interactions of those 3 and “Agile” Methods.
 
 
 --
