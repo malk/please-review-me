@@ -9,3 +9,7 @@ Let's Vulgarise Bourdieu! Buckle up for a talk on:
 * Social/Corporeal Hexis.
 * Cultural Capital.
 *Interactions of those 3 and “Agile” Methods.
+
+
+--
+[The talk was filmed](http://videos.ncrafts.io/video/342450313)
